@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-lightbase-rn",
+  "version": "0.0.1",
+  "description": "ESLint config for React Native",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lightbasenl/eslint-config-lightbase-react-native.git"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.4.2",
+    "@typescript-eslint/parser": "^1.4.2",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-eslint-comments": "^3.0.1",
+    "eslint-plugin-jest": "22.3.0",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-react-hooks": "^1.0.1",
+    "eslint-plugin-react-native": "3.6.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=5",
+    "prettier": ">=1.16",
+    "typescript": ">=3.3"
+  },
+  "devDependencies": {
+    "eslint": "5.15.1",
+    "prettier": "^1.16.4",
+    "typescript": "^3.3.3333"
+  }
+}

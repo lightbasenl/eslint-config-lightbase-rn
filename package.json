@@ -1,6 +1,6 @@
 {
   "name": "@lightbase/eslint-config-lightbase-rn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint config for React Native",
   "main": "index.js",
   "license": "MIT",

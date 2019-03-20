@@ -35,7 +35,7 @@ module.exports = {
     "no-const-assign": 2,
     "no-dupe-class-members": 2,
     "no-dupe-keys": 2,
-    "no-nested-ternery": 2,
+    "no-nested-ternary": 2,
     "no-unneeded-ternary": "error",
     "no-useless-return": 2,
     "object-shorthand": [2, "always", { ignoreConstructors: false, avoidQuotes: true }],

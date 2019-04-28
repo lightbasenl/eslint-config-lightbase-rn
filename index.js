@@ -26,6 +26,7 @@ module.exports = {
     "@typescript-eslint/type-annotation-spacing": 0,
     "@typescript-eslint/camelcase": 0,
     "consistent-return": 2,
+    "@typescript-eslint/no-unused-vars": ["error", { ignoreRestSiblings: true }],
     "default-case": [2, { commentPattern: "^no default$" }],
     eqeqeq: [2, "always", { null: "ignore" }],
     "no-console": 0,
